@@ -50,26 +50,16 @@ Aplikasi ini menampilkan informasi profil mahasiswa dan produk sederhana dengan 
 ## Screenshot Aplikasi
 
 ### Screenshot 1
-![Screenshot 1](images/img1.JPG)
-
-### Screenshot 2
-![Screenshot 2](images/img2.JPG)
-
-### Screenshot 3
-![Screenshot 3](images/img3.JPG)
-
-### Screenshot 4
 ![Screenshot 4](images/img4.JPG)
 
-### Screenshot 5
-![Screenshot 5](images/img5.JPG)
+### Screenshot 2
+![Screenshot 2](images/img5.JPG)
 
-### Screenshot 6
-![Screenshot 6](images/img6.JPG)
+### Screenshot 3
+![Screenshot 3](images/img6.JPG)
 
-### Screenshot 7
-![Screenshot 7](images/img7.JPG)
-
+### Screenshot 4
+![Screenshot 5](images/img7.JPG)
 
 ## Struktur Project
 
