@@ -70,8 +70,6 @@ Aplikasi ini menampilkan informasi profil mahasiswa dan produk sederhana dengan 
 ### Screenshot 7
 ![Screenshot 7](images/img7.JPG)
 
-### Screenshot 8
-![Screenshot 8](images/img8.JPG)
 
 ## Struktur Project
 
