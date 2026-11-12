@@ -68,14 +68,10 @@ ppm_sesi2/
 ├── images/
 │   ├── profil.jpg
 │   ├── tas.jpg
-│   ├── img1.JPG
-│   ├── img2.JPG
-│   ├── img3.JPG
 │   ├── img4.JPG
 │   ├── img5.JPG
 │   ├── img6.JPG
 │   ├── img7.JPG
-│   └── img8.JPG
 ├── lib/
 │   └── main.dart
 ├── pubspec.yaml
